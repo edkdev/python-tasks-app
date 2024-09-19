@@ -1,0 +1,2 @@
+DEBUG = True
+MAX_TASKS = 100
